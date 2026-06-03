@@ -4,13 +4,13 @@
     background-color: rgb(241, 150, 51);
 }
 .jimkk{
-    background-color: rgb(212, 158, 143);
+    background-color:#273982cd;
     padding:20px 30px;
     border-radius:15px;
-    color: rgb(2, 3, 5);
+    color: rgb(214, 214, 214);
     margin: -40px auto 0px auto;
     width:90%;
-    height:190px;
+    height:170px;
     
 }
 .jimcentercenter{
@@ -38,7 +38,7 @@ a.jimlink:hover{
 }
 section#about {
     background: rgb(4, 149, 178);
-    background-image: url("../assets/img/fire.jpg");
+    background-image: url("../assets/img/sky.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
@@ -48,7 +48,7 @@ section#about h1{
     color: #eaeaea;
 }
 section#about div{
-    color: #eaeaea;
+    color: #ffffff;
 }
 section#cta {
     background: rgb(4, 149, 178);
@@ -56,4 +56,11 @@ section#cta {
 .img-33{
     width: 50%;
     height:auto;
+}
+
+.noto-serif-tc-serif{
+  font-family: "Noto Serif TC", serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
 }
