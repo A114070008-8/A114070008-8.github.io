@@ -11,10 +11,8 @@
     margin: -40px auto 0px auto;
     width:90%;
     height:100%;
-    
 }
 .jimcentercenter{
- 
     text-align: center;
 }
 a.jimlink{
@@ -22,7 +20,6 @@ a.jimlink{
     padding: 0 30px;
     border-radius:40px;
     background-color: azure;
-
 }
 a.jimlink:hover{
     color: aliceblue;
@@ -36,7 +33,7 @@ a.jimlink:hover{
     font-size:50px;
     text-align:center;
 }
-section#about {
+section#about{
     background: rgb(4, 149, 178);
     background-image: url("../assets/img/sky.jpg");
     background-repeat: no-repeat;
@@ -62,7 +59,6 @@ section#cta {
     width: 50%;
     height:auto;
 }
-
 .noto-serif-tc-serif{
   font-family: "Noto Serif TC", serif;
   font-optical-sizing: auto;
@@ -75,5 +71,5 @@ section#cta {
     border-radius:50px;
 }
 .white{
-    color: #cecece !important;
+    color: #cecece;
 }
