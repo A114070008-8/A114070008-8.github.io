@@ -1,7 +1,7 @@
 .Jimcenter{
     text-align: center;
-    color: brown;
-    background-color: rgb(241, 150, 51);
+    color: #273982;
+    background-color:#88C9F2;
 }
 .jimkk{
     background-color:#273982cd;
@@ -10,7 +10,7 @@
     color: rgb(214, 214, 214);
     margin: -40px auto 0px auto;
     width:90%;
-    height:170px;
+    height:100%;
     
 }
 .jimcentercenter{
@@ -52,6 +52,11 @@ section#about div{
 }
 section#cta {
     background: rgb(4, 149, 178);
+    background-image: url("../assets/img/sky-2.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size:cover;
 }
 .img-33{
     width: 50%;
@@ -63,4 +68,12 @@ section#cta {
   font-optical-sizing: auto;
   font-weight: 800;
   font-style: normal;
+}
+.img-100{
+    width:100%;
+    padding:20px 30px;
+    border-radius:50px;
+}
+.white{
+    color: #cecece !important;
 }
